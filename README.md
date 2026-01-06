@@ -76,6 +76,3 @@ Conclusion
 This project demonstrates effective use of basic data visualization techniques to analyze time-based and categorical sales data, following standard analytical and reporting practices.
 
 
-Align it with a specific internship/company style
-
-Just say 👍
