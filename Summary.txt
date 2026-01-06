@@ -1,0 +1,15 @@
+
+PROJECT 1: TIME SERIES & CATEGORY CHARTS
+
+- Monthly and quarterly line charts show overall sales trends.
+- Bar chart compares total sales across categories.
+- Pie chart shows percentage share of each category.
+- Proper labels, legends, and axis formatting improve readability.
+
+Generated Files:
+- sales_data.csv
+- sales_data.xlsx
+- monthly_sales.png
+- quarterly_sales.png
+- category_sales_bar.png
+- category_sales_pie.png
